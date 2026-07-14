@@ -1,1 +1,1 @@
-worker: python DIE.py
+worker: python bot.py
